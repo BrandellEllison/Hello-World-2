@@ -1,2 +1,3 @@
-# Hello-World-2
-Just another repository
+# 30 Days of Code Challenge
+
+[Pending updates]
